@@ -15,4 +15,10 @@ public class MainActivity extends AppCompatActivity {
 
         Log.v(TAG,"onCreate method");
     }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        Log.v(TAG,"onResume method");
+    }
 }
