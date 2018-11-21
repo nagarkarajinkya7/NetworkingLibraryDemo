@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(layoutManager);
 
         data = new ArrayList<>();
+        Log.v(TAG,"data size : "+data.isEmpty());
         for (int i = 0; i < DemoData.nameArray.length; i++) {
             data.add(new DataModel(
                     DemoData.nameArray[i],
@@ -56,8 +57,9 @@ public class MainActivity extends AppCompatActivity {
         }
 
         removed_item = new ArrayList<>();
-
+        Log.v(TAG,"data size : "+data.isEmpty());
         adapter = new CustomAdapter(data);
+        recyclerView.setAdapter(adapter);
     }
 
     @Override

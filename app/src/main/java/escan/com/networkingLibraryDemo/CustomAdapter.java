@@ -2,6 +2,7 @@ package escan.com.networkingLibraryDemo;
 
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -47,9 +48,11 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.MyViewHold
 
     @Override
     public void onBindViewHolder(CustomAdapter.MyViewHolder holder, int position) {
+
         TextView textViewName = holder.textViewName;
         TextView textViewVersion = holder.textViewVersion;
         ImageView imageView = holder.imageViewIcon;
+
 
         textViewName.setText(dataSet.get(position).getName());
         textViewVersion.setText(dataSet.get(position).getVersion());
