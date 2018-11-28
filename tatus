@@ -1,0 +1,29 @@
+[33mcommit d7a75eab3f3c0f322f96278ac8eea37f84f0e950[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: ajinkya <ajinkya@escanav.com>
+Date:   Wed Nov 21 18:19:21 2018 +0530
+
+    Reduce Apk Size Demo
+
+[33mcommit 4c70306f1a33cbba06ee1c908e3e589228a51574[m[33m ([m[1;31morigin/workingBranch[m[33m, [m[1;32mworkingBranch[m[33m)[m
+Author: ajinkya <ajinkya@escanav.com>
+Date:   Sat Nov 17 19:48:01 2018 +0530
+
+    RecyclerView added
+
+[33mcommit 89f973a97a83ba2f2af935801c383365b5aad544[m
+Author: ajinkya <ajinkya@escanav.com>
+Date:   Sat Nov 17 15:48:23 2018 +0530
+
+    workbranch created
+
+[33mcommit 3c2e0628334e3138cf325a0f3d25343b0fb2665b[m
+Author: ajinkya <ajinkya@escanav.com>
+Date:   Thu Nov 15 18:49:16 2018 +0530
+
+    Log verbose message added for debug
+
+[33mcommit 8a8bf132260f393c44f147d4e7b8ee18134b940d[m
+Author: ajinkya <rahulc@escanav.com>
+Date:   Thu Nov 15 18:18:10 2018 +0530
+
+    First project creation
