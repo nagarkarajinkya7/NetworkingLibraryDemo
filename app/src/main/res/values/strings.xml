@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NetworkingLibraryDemo</string>
+    <string name="api_name">Android Name</string>
+    <string name="api_version">Android Version</string>
 </resources>
