@@ -1,4 +1,6 @@
-package escan.com.networkingLibraryDemo;
+package escan.com.networkingLibraryDemo.RecyclerViewDemo.NetowrkingDemo.recyclerViewDemo;
+
+import escan.com.networkingLibraryDemo.R;
 
 public class DemoData {
 

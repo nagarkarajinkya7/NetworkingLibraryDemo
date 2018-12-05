@@ -1,4 +1,4 @@
-package escan.com.networkingLibraryDemo;
+package escan.com.networkingLibraryDemo.RecyclerViewDemo.NetowrkingDemo.recyclerViewDemo;
 
 import android.content.Context;
 import android.support.v7.app.AppCompatActivity;
@@ -14,6 +14,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
+
+import escan.com.networkingLibraryDemo.R;
 
 
 public class MainActivity extends AppCompatActivity {

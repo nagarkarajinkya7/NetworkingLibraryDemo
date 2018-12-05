@@ -1,4 +1,4 @@
-package escan.com.networkingLibraryDemo;
+package escan.com.networkingLibraryDemo.RecyclerViewDemo.NetowrkingDemo.recyclerViewDemo;
 
 public class DataModel {
 
